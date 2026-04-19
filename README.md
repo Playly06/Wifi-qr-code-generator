@@ -1,5 +1,6 @@
 # Wifi-qr-code-generator
 It is an app that generates you a qr code for your wifi so you can connect to it.
+It uses the library wifi_qrcode_generator.
 
 This is a guide if you struggle for the security type:
 If you have no idea what is this about, follow these steps:
